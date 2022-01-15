@@ -1,7 +1,11 @@
 # Prediction-program
 Predicts an answer in yes or no.
+It is based on the game 'effeuiller la marguerite' in which the person plucks flower petals from the flower to find out whether it is yes or no. 
+I find it silly.
+So, avoid plucking flowers for this purpose. Instead use this program to know whether it is yes or no.
 ## Inspiration
 LHD Build Create a Useless Invention Hack
+effeuiller la marguerite game
 ## What it does
 It answers your question in yes or no.
 ## How we built it
