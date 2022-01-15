@@ -1,4 +1,4 @@
-# Prediction-program
+## Oui-ou-non-prediction
 Predicts an answer in 'yes' or 'no'.
 
 It is based on the game 'effeuiller la marguerite' in which the person plucks flower petals from the flower to find out whether it is 'yes' or 'no'. 
